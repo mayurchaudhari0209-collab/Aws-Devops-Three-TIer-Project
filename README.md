@@ -157,11 +157,7 @@ By completing this project, you practise:
 - Connecting Node.js to Aurora MySQL
 - Using S3 and IAM roles
 - Accessing private instances through Session Manager
-📄 Project documentation
-The detailed step-by-step guide, including console walkthroughs and screenshots, is available here:
 
-[📥 Open / Download the 3-Tier Project PDF](3-Tier-Doc-By-Mayurchaudhari.pdf)
-Keep the PDF in the same repository folder as this README.md so the relative link works.
 
 <div align="center">⭐ Thank you for visiting this project!
 Project by Mayur Chaudhari
